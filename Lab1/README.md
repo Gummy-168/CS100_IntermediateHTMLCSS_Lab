@@ -93,12 +93,14 @@ header, nav, article, div, footer {
 header {
     width: 100%;
     height: 200px;
+    background-color: rgb(173, 216, 253);
 
 }
 
 footer {
     width: 100%;
     clear: both;
+    background-color: rgb(173, 216, 253);
     
 
 }
@@ -106,6 +108,7 @@ nav{
     width: 20%;
     height: 200px;
     float: left;
+    background-color: rgb(173, 216, 253);
 
 }
 
@@ -113,6 +116,7 @@ article {
     width: 60%;
     height: 200px;
     float: left;
+    background-color: rgb(223, 238, 252);
 
 }
 
@@ -120,6 +124,7 @@ div {
     width: 20%;
     height: 200px;
     float: left;
+    background-color: rgb(173, 216, 253);
 
 }
 ```
